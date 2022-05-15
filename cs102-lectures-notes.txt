@@ -3,3 +3,11 @@ git push to push all the changes to server
 git status shows the status of our repository
 git commit to commit the file
 git --version to show the version of our git
+
+
+
+summary : today i learned how to clone the directory into local machine by git clone command .
+we can do it in 2 ways by https or shh keys.but ssh key is better as we can directly clone it
+after cloning we can make changes to the repository by using commands in our local machine .
+we should add , commit and push the changed file to our repository 
+
