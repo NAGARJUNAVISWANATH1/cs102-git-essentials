@@ -1,0 +1,5 @@
+git clone used to clone the repository fron our local environiment to server
+git push to push all the changes to server
+git status shows the status of our repository
+git commit to commit the file
+git --version to show the version of our git
