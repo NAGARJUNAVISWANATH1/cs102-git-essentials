@@ -11,3 +11,4 @@ we can do it in 2 ways by https or shh keys.but ssh key is better as we can dire
 after cloning we can make changes to the repository by using commands in our local machine .
 we should add , commit and push the changed file to our repository 
 
+ugtuiutyutyty
